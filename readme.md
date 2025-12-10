@@ -75,7 +75,12 @@ To run MetExp locally:
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file for full details.
+
+## 🔗 Third-Party Resources
+
+This project uses materials released under **CC0 1.0 Universal**, which allows unrestricted use, modification, and commercial usage without any attribution requirements.
 
 ---
 
